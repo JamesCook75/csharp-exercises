@@ -28,7 +28,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studio2", "Studio2\Studio2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex5-1", "Ex5-1\Ex5-1.csproj", "{D96932C2-B314-4BA1-A052-62661C018E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{4FE22FEF-F442-422B-90D1-6564D5619313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant", "Restaurant\Restaurant.csproj", "{4FE22FEF-F442-422B-90D1-6564D5619313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7-1", "Ex7-1\Ex7-1.csproj", "{3DB91E86-463B-49C2-B602-1A71C3FDC064}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -92,6 +94,10 @@ Global
 		{4FE22FEF-F442-422B-90D1-6564D5619313}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE22FEF-F442-422B-90D1-6564D5619313}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE22FEF-F442-422B-90D1-6564D5619313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB91E86-463B-49C2-B602-1A71C3FDC064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB91E86-463B-49C2-B602-1A71C3FDC064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB91E86-463B-49C2-B602-1A71C3FDC064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB91E86-463B-49C2-B602-1A71C3FDC064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
